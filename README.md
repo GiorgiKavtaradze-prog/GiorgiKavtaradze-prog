@@ -18,7 +18,7 @@ FullStack Developer
 <p>
   <img src="javascript.png" width="45" height="45" alt="JavaScript" />
   <img src="typescript.png" width="45" height="45" alt="TypeScript" />
-  <img src="c.png" width="45" height="45" alt="C#" />
+  <img src="c.png" width="40" height="40" alt="C#" />
   <img src="angular.gif" width="40" height="40" alt="Angular" />
   <img src="ngrx.svg" width="35" height="35" alt="Ngrx" />
   <img src="reactjs.png" width="38" height="38" alt="React" />
