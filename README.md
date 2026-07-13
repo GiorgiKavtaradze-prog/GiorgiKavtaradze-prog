@@ -1,7 +1,5 @@
 Hi 👋, I'm Giorgi Kavtaradze
 
-Full Stack Developer
-
 I'm a detail-oriented Full Stack Developer who enjoys building modern, scalable web applications and solving real-world problems through clean, efficient code. I care about writing maintainable Developer, improving user experience, and always learning something new.
 
 I genuinely love solving problems, I am a problem solver and use technologies as tools to do that job. I am also an enthusiast who thinks that you can to build whatever you want here - only imagination is the limit.
@@ -14,7 +12,7 @@ I genuinely love solving problems, I am a problem solver and use technologies as
 - Backend: Node.js, Nest.js, Asp.Net
 - State Management: Redux Toolkit, Zustand, Pinia,
 - Forms & Validation: React Hook Form
-- 📬 How to reach me **giorgi.kavtaradze2000@mail.ru**
+- How to reach me **giorgi.kavtaradze2000@mail.ru**
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giorgi-kavtaradze-52b095370)
