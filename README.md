@@ -4,10 +4,10 @@ I'm a detail-oriented Full Stack Developer who enjoys building modern, scalable 
 
 I genuinely love solving problems, I am a problem solver and use technologies as tools to do that job. I am also an enthusiast who thinks that you can to build whatever you want here - only imagination is the limit.
 
-🚀 About Me:
-- 🏗 I’m Full Stack Developer
-- 🏗 All of my projects are available at **[My Portfolio](https://your-portfolio.com)**
-- 🏗 All of my projects are available at **[My Portfolio](https://web-portfolio-frsm.vercel.app)**
+🎓 About Me:
+- I’m Full Stack Developer
+- All of my projects are available at **[My Portfolio](https://your-portfolio.com)**
+- All of my projects are available at **[My Portfolio](https://web-portfolio-frsm.vercel.app)**
 - Frontend: React, Next.js, Angular, TypeScript, TailwindCSS
 - Backend: Node.js, Nest.js, Asp.Net
 - State Management: Redux Toolkit, Zustand, Pinia,
@@ -19,7 +19,7 @@ I genuinely love solving problems, I am a problem solver and use technologies as
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://facebook.com/yourprofile)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
  
-### 🛠 Languages and Tools:
+### 💻 Tech Stack:
 <p>
   <img src="javascript.png" width="45" height="45" alt="JavaScript" />
   <img src="typescript.png" width="45" height="45" alt="TypeScript" />
