@@ -1,4 +1,4 @@
-Hi 👋, I'm Giorgi Kavtaradze
+### Hi 👋, I'm Giorgi Kavtaradze
 
 I'm a detail-oriented Full Stack Developer who enjoys building modern, scalable web applications and solving real-world problems through clean, efficient code. I care about writing maintainable Developer, improving user experience, and always learning something new.
 
