@@ -9,7 +9,7 @@ I genuinely love solving problems, I am a problem solver and use technologies as
 - All of my projects are available at **[My Portfolio](https://your-portfolio.com)**
 - All of my projects are available at **[My Portfolio](https://web-portfolio-frsm.vercel.app)**
 - Frontend: React, Next.js, Angular, TypeScript, Tailwind CSS
-- Backend: Node.js, Nest.js, Asp.Net
+- Backend: Node.js, Nest.js, .Net
 - State Management: Redux Toolkit, Zustand, Pinia,
 - Forms & Validation: React Hook Form
 - How to reach me **giorgi.kavtaradze2000@mail.ru**
