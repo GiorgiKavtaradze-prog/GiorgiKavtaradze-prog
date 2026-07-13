@@ -4,7 +4,7 @@ I'm a detail-oriented Full Stack Developer who enjoys building modern, scalable 
 
 I genuinely love solving problems, I am a problem solver and use technologies as tools to do that job. I am also an enthusiast who thinks that you can to build whatever you want here - only imagination is the limit.
 
-🎓 About Me:
+### 🎓 About Me:
 - I’m Full Stack Developer
 - All of my projects are available at **[My Portfolio](https://your-portfolio.com)**
 - All of my projects are available at **[My Portfolio](https://web-portfolio-frsm.vercel.app)**
