@@ -23,7 +23,7 @@ I genuinely love solving problems, I am a problem solver and use technologies as
 <p>
   <img src="javascript.png" width="45" height="45" alt="JavaScript" />
   <img src="typescript.png" width="45" height="45" alt="TypeScript" />
-  <img src="py.png" width="40" height="40" alt="py" />
+  <img src="py.png" width="38" height="39" alt="py" />
   <img src="c.png" width="40" height="40" alt="C#" />
   <img src="dotnetcore.png" width="40" height="40" alt="dotnetcore" />
   <img src="angular.gif" width="40" height="40" alt="Angular" />
