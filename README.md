@@ -1,10 +1,8 @@
-### Hi 👋, I'm Giorgi Kavtaradze
-
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="gk.svg" width="600">
   <source media="(prefers-color-scheme: light)" srcset="gk.svg" width="600">
-  <img alt="Convex logo" src="gk.svg" width="600">
+  <img alt="gk" src="gk.svg" width="600">
 </picture>
 </p>
 
