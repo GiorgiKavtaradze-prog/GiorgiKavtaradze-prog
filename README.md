@@ -4,6 +4,28 @@ I'm a detail-oriented Full Stack Developer who enjoys building modern, scalable 
 
 I genuinely love solving problems, I am a problem solver and use technologies as tools to do that job. I am also an enthusiast who thinks that you can to build whatever you want here - only imagination is the limit.
 
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" /> &nbsp;About Me
+
+<table>
+  <tr>
+    <td valign="top" width="60%">
+
+- I’m Full Stack Developer
+- All of my projects are available at **[My Portfolio](https://your-portfolio.com)**
+- All of my projects are available at **[My Portfolio](https://web-portfolio-frsm.vercel.app)**
+- Frontend: React, Next.js, Angular, TypeScript, Tailwind CSS
+- Backend: Node.js, Nest.js, .Net
+- State Management: Redux Toolkit, Zustand, Pinia,
+- Forms & Validation: React Hook Form
+- How to reach me **giorgi.kavtaradze2000@mail.ru**
+
+    </td>
+    <td valign="top" width="40%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" alt="Tech Enthusiast Coding GIF" />
+    </td>
+  </tr>
+</table>
+
 ## 🎓 About Me:
 - I’m Full Stack Developer
 - All of my projects are available at **[My Portfolio](https://your-portfolio.com)**
