@@ -5,8 +5,7 @@ I'm a detail-oriented Full Stack Developer who enjoys building modern, scalable 
 I genuinely love solving problems, I am a problem solver and use technologies as tools to do that job. I am also an enthusiast who thinks that you can to build whatever you want here - only imagination is the limit.
 
 
-## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" /> &nbsp;About Me
-
+## 🎓 About Me:
 <table>
   <tr>
     <td valign="top" width="60%">
