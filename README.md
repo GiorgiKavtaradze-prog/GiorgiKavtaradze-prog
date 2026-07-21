@@ -28,16 +28,6 @@ I genuinely love solving problems, I am a problem solver and use technologies as
   </tr>
 </table>
 
-## 🎓 About Me:
-- I’m Full Stack Developer
-- All of my projects are available at **[My Portfolio](https://your-portfolio.com)**
-- All of my projects are available at **[My Portfolio](https://web-portfolio-frsm.vercel.app)**
-- Frontend: React, Next.js, Angular, TypeScript, Tailwind CSS
-- Backend: Node.js, Nest.js, .Net
-- State Management: Redux Toolkit, Zustand, Pinia,
-- Forms & Validation: React Hook Form
-- How to reach me **giorgi.kavtaradze2000@mail.ru**
-
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giorgi-kavtaradze-52b095370)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://facebook.com/yourprofile)
