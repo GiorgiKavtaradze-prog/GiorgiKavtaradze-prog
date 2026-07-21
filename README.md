@@ -25,8 +25,6 @@ I genuinely love solving problems, I am a problem solver and use technologies as
     <td valign="top" width="40%" height="100%" align="center">
       <br/>
       <br/>
-      <br/>
-      <br/>
       <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" alt="Tech Enthusiast Coding GIF" />
     </td>
   </tr>
