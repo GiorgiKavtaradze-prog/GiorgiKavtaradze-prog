@@ -1,11 +1,3 @@
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="gk.svg" width="600">
-  <source media="(prefers-color-scheme: light)" srcset="gk.svg" width="600">
-  <img alt="gk" src="gk.svg" width="600">
-</picture>
-</p>
-
 I'm a detail-oriented Full Stack Developer who enjoys building modern, scalable web applications and solving real-world problems through clean, efficient code. I care about writing maintainable Developer, improving user experience, and always learning something new.
 
 I genuinely love solving problems, I am a problem solver and use technologies as tools to do that job. I am also an enthusiast who thinks that you can to build whatever you want here - only imagination is the limit.
