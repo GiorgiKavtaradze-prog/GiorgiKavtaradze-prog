@@ -2,8 +2,8 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://static.convex.dev/logo/convex-logo-light.svg" width="600">
-  <source media="(prefers-color-scheme: light)" srcset="https://static.convex.dev/logo/convex-logo.svg" width="600">
+  <source media="(prefers-color-scheme: dark)" srcset="gk.svg" width="600">
+  <source media="(prefers-color-scheme: light)" srcset="gk.svg" width="600">
   <img alt="Convex logo" src="gk.svg" width="600">
 </picture>
 </p>
