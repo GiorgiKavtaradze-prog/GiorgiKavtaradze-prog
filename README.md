@@ -8,7 +8,7 @@ I genuinely love solving problems, I am a problem solver and use technologies as
 ### 🎓 About Me:
 <table>
   <tr>
-    <td valign="top" width="70%">
+    <td valign="top" width="60%">
 
 > *"I leverage AI tools for rapid development and maintain a strong focus on bug-free software and efficient workflows."*
 
