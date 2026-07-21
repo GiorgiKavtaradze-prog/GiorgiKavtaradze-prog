@@ -9,7 +9,7 @@ I genuinely love solving problems, I am a problem solver and use technologies as
 <table>
   <tr>
     <td valign="top" width="60%">
-
+> *"I leverage AI tools for rapid development and maintain a strong focus on bug-free software and efficient workflows."*
 - I’m Full Stack Developer
 - All of my projects are available at **[My Portfolio](https://your-portfolio.com)**
 - All of my projects are available at **[My Portfolio](https://web-portfolio-frsm.vercel.app)**
