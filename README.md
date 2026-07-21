@@ -10,17 +10,15 @@ I genuinely love solving problems, I am a problem solver and use technologies as
 <table>
   <tr>
     <td valign="top" width="60%">
-
-> *"I leverage AI tools for rapid development and maintain a strong focus on bug-free software and efficient workflows."*
-
-- 🎓 **Education:** B.Sc. in CSE @ **East West University** *(Expected 2028)*
-- 🔬 **Major:** Intelligent Systems & Data Science
-- 🧪 **Focus Areas:** Software Quality Assurance, Cloud Security, AI-Driven Development
-- 🌍 **Location:** Dhaka, Bangladesh 🇧🇩
-- 🎯 **Mission:** Building bug-free, secure & intelligent software systems
-- 📊 **Academic Record:** HSC (GPA 5.00) | SSC (GPA 5.00) - Science Background
-- ⚡ **Fun Fact:** I debug code faster with AI than most people write it! 🚀
-
+      
+- I’m Full Stack Developer
+- All of my projects are available at **[My Portfolio](https://your-portfolio.com)**
+- All of my projects are available at **[My Portfolio](https://web-portfolio-frsm.vercel.app)**
+- Frontend: React, Next.js, Angular, TypeScript, Tailwind CSS
+- Backend: Node.js, Nest.js, .Net
+- State Management: Redux Toolkit, Zustand, Pinia,
+- Forms & Validation: React Hook Form
+- How to reach me **giorgi.kavtaradze2000@mail.ru**
     </td>
     <td valign="top" width="40%" align="center">
       <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" alt="Tech Enthusiast Coding GIF" />
