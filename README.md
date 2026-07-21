@@ -4,14 +4,7 @@ I'm a detail-oriented Full Stack Developer who enjoys building modern, scalable 
 
 I genuinely love solving problems, I am a problem solver and use technologies as tools to do that job. I am also an enthusiast who thinks that you can to build whatever you want here - only imagination is the limit.
 
-
 ### 🎓 About Me:
-<table>
-  <tr>
-    <td valign="top" width="60%">
-
-> *"I leverage AI tools for rapid development and maintain a strong focus on bug-free software and efficient workflows."*
-
 - I’m Full Stack Developer
 - All of my projects are available at **[My Portfolio](https://your-portfolio.com)**
 - All of my projects are available at **[My Portfolio](https://web-portfolio-frsm.vercel.app)**
@@ -20,14 +13,6 @@ I genuinely love solving problems, I am a problem solver and use technologies as
 - State Management: Redux Toolkit, Zustand, Pinia,
 - Forms & Validation: React Hook Form
 - How to reach me **giorgi.kavtaradze2000@mail.ru**
-
-    </td>
-    <td valign="top" width="40%" height="100%" align="center">
-      <br/>
-      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" alt="Tech Enthusiast Coding GIF" />
-    </td>
-  </tr>
-</table>
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giorgi-kavtaradze-52b095370)
