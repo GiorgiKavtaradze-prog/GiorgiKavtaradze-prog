@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="854" height="220" style="z-index: 1; position: relative;" viewBox="0 0 854 220">
+        
+        <defs>
+              <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
+                <stop offset="0%" stop-color="#0d1117">
+                  
+                </stop>
+                <stop offset="50%" stop-color="#1b3a57">
+                  
+                </stop>
+                <stop offset="100%" stop-color="#0d1117">
+                  
+                </stop>
+              </linearGradient>
+              <linearGradient id="linear2" x1="100%" y1="0%" x2="0%" y2="0%">
+                <stop offset="0%" stop-color="#0d1117"/>
+                <stop offset="50%" stop-color="#1a2b3d"/>
+                <stop offset="100%" stop-color="#0d1117"/>
+              </linearGradient>
+            </defs>
+
+      <g transform="translate(427, 110) scale(1, 1) translate(-427, -110)" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+        <path d="" fill="url(#linear)" opacity="0.5" style="stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.5;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+          
+        </path>
+        <path d="" fill="url(#linear2)" opacity="0.45" style="stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.45;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+          
+        </path>
+        <path d="" fill="#58a6ff" opacity="0.06" style="fill:rgb(88, 166, 255);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.06;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+          
+        </path>
+      </g>
+         <text text-anchor="middle" dominant-baseline="middle" x="50%" y="35%" style="fill:#58a6ff;;fill:rgb(88, 166, 255);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;;font-size:55px;font-weight:700;text-anchor:middle;dominant-baseline:middle" stroke="#none" stroke-width="1">Giorgi Kavtaradze</text>
+        <text text-anchor="middle" dominant-baseline="middle" x="50%" y="55%" style="fill:#58a6ff;;fill:rgb(88, 166, 255);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;;font-size:18px;font-weight:500;text-anchor:middle;dominant-baseline:middle">Full-Stack Developer | Cloud Security | AI-Driven Developer</text>
+      </svg>
