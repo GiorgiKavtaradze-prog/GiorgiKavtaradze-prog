@@ -19,6 +19,12 @@ I genuinely love solving problems, I am a problem solver and use technologies as
 - State Management: Redux Toolkit, Zustand, Pinia,
 - Forms & Validation: React Hook Form
 - How to reach me **giorgi.kavtaradze2000@mail.ru**
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giorgi-kavtaradze-52b095370)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://facebook.com/yourprofile)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
+
     </td>
     <td valign="top" width="40%" align="center">
       <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" alt="Tech Enthusiast Coding GIF" />
