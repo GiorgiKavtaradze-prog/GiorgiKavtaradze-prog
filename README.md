@@ -1,4 +1,4 @@
-### 👋 Hey, I'm Giorgi
+### 👋 Hey, I'm Giorgi Kavtaradze
 
 ### 🎓 About Me:
 - I’m Full-Stack Developer
