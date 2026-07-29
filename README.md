@@ -1,6 +1,8 @@
-## 👋 Hey, I'm Giorgi
+### 👋 Hey, I'm Giorgi
 
-## 🎓 About Me:
+Full Stack Developer
+
+### 🎓 About Me:
 - I’m Full-Stack Developer
 - All of my projects are available at **[My Portfolio](https://your-portfolio.com)**
 - All of my projects are available at **[My Portfolio](https://web-portfolio-frsm.vercel.app)**
