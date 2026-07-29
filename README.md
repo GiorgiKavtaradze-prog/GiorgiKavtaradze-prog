@@ -1,7 +1,5 @@
 ### 👋 Hey, I'm Giorgi
 
-Full Stack Developer
-
 ### 🎓 About Me:
 - I’m Full-Stack Developer
 - All of my projects are available at **[My Portfolio](https://your-portfolio.com)**
