@@ -13,7 +13,7 @@ I genuinely love solving problems, I am a problem solver and use technologies as
 - State Management: Redux Toolkit, Zustand, Pinia,
 - Forms & Validation: React Hook Form
 - How to reach me **giorgi.kavtaradze2000@mail.ru**
-## 🌐 Socials:
+### 🌐 Socials:
 <table>
 <tr>
 <td><a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white"></a></td>
@@ -48,7 +48,7 @@ I genuinely love solving problems, I am a problem solver and use technologies as
 <td align="center"><img src="motion.png" alt="motion" width="40" height="40"/></td>
 <td align="center"><img src="gsap.jpg" alt="gsap" width="40" height="40"/></td>
 <td align="center"><img src="clerk.avif" alt="Ckerk" width="40" height="40"/></td>
-<td align="center"><img src="sanity.png" alt="sanity" width="39" height="39"/></td>
+<td align="center"><img src="sanity.png" alt="sanity" width="38" height="38"/></td>
 <td align="center"><img src="g.png" alt="Convex" width="40" height="38"/></td>
 <td align="center"><img src="supabase.png" alt="supabase" width="40" height="40"/></td>
 <td align="center"><img src="nodejs.png" alt="node.js" width="40" height="40"/></td>
