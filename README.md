@@ -1,6 +1,6 @@
 ### 👋 Hey, I'm Giorgi Kavtaradze
 
-### 🎓 About Me:
+### About Me:
 ###  I’m Full-Stack Developer
 All of my projects are available at **[My Portfolio](https://your-portfolio.com)**
 All of my projects are available at **[My Portfolio](https://web-portfolio-frsm.vercel.app)**
@@ -31,7 +31,7 @@ All of my projects are available at **[My Portfolio](https://web-portfolio-frsm.
 
 **Contact:** giorgi.kavtaradze2000@mail.ru
 
-### 🌐 Socials:
+### Socials:
 <table>
 <tr>
 <td><a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white"></a></td>
@@ -41,7 +41,7 @@ All of my projects are available at **[My Portfolio](https://web-portfolio-frsm.
 </tr>
 </table>
  
-### 💻 Tech Stack:
+### Tech Stack:
 <table width="100%">
 <tr>
 <td align="center" width="7.14%"><img src="javascript.png" width="45" height="45" alt="JavaScript" /></td>
