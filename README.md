@@ -73,15 +73,15 @@ All of my projects are available at **[My Portfolio](https://web-portfolio-frsm.
 ![Trivy](https://img.shields.io/badge/Trivy-1D2935?style=flat-square&logo=aquasecurity&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
 
-**Contact:** giorgi.kavtaradze2000@gmail.com
+**Contact** giorgi.kavtaradze2000@gmail.com
 
-### Socials:
+**Socials**
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giorgi-kavtaradze-52b095370)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://facebook.com/yourprofile)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
  
-### Tech Stack:
+### Tech Stack
 <p align="center">
   <kbd><img src="javascript.png" width="42.3" height="42.3" alt="JavaScript" /></kbd>&nbsp;
   <kbd><img src="typescript.png" width="42.3" height="42.3" alt="TypeScript" /></kbd>&nbsp;
