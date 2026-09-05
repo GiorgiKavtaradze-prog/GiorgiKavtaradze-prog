@@ -1,6 +1,5 @@
 ### 👋 Hey, I'm Giorgi Kavtaradze
 
-### About Me:
 ###  I’m Full-Stack Developer
 All of my projects are available at **[My Portfolio](https://your-portfolio.com)**
 All of my projects are available at **[My Portfolio](https://web-portfolio-frsm.vercel.app)**
@@ -39,13 +38,6 @@ All of my projects are available at **[My Portfolio](https://web-portfolio-frsm.
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
 ![Neon Postgres](https://img.shields.io/badge/Neon_Postgres-00E599?style=flat-square&logo=neon&logoColor=black)
 ![Convex](https://img.shields.io/badge/Convex-FF3366?style=flat-square&logo=convex&logoColor=white)
-
-**Services, AI & Cloud**
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
-![ImageKit](https://img.shields.io/badge/ImageKit-E8590C?style=flat-square&logo=imagekit&logoColor=white)
-![Stream Video + Chat](https://img.shields.io/badge/Stream_Video_%2B_Chat-005FFF?style=flat-square&logo=stream&logoColor=white)
-![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
-![OpenAI gpt-4o-mini](https://img.shields.io/badge/OpenAI_gpt--4o--mini-412991?style=flat-square&logo=openai&logoColor=white)
 
 **State Management**
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
