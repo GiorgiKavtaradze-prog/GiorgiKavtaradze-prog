@@ -76,65 +76,59 @@ All of my projects are available at **[My Portfolio](https://web-portfolio-frsm.
 **Contact:** giorgi.kavtaradze2000@gmail.com
 
 ### Socials:
-<table>
-<tr>
-<td><a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white"></a></td>
-<td><a href="https://www.linkedin.com/in/giorgi-kavtaradze-52b095370"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a></td>
-<td><a href="https://facebook.com/yourprofile"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white"></a></td>
-<td><a href="https://instagram.com/yourprofile"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white"></a></td>
-</tr>
-</table>
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giorgi-kavtaradze-52b095370)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://facebook.com/yourprofile)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
  
 ### Tech Stack:
-<table width="100%">
-  <tr>
-    <td align="center" width="7.14%"><img src="javascript.png" width="45" height="45" alt="JavaScript" /></td>
-    <td align="center" width="7.14%"><img src="typescript.png" width="45" height="45" alt="TypeScript" /></td>
-    <td align="center" width="7.14%"><img src="py.png" width="38" height="39" alt="Python" /></td>
-    <td align="center" width="7.14%"><img src="go.png" width="38" height="39" alt="Go" /></td>
-    <td align="center" width="7.14%"><img src="rust.png" width="40" height="40" alt="Rust" /></td>
-    <td align="center" width="7.14%"><img src="c.png" width="40" height="40" alt="C#" /></td>
-    <td align="center" width="7.14%"><img src="c++.png" width="40" height="40" alt="C++" /></td>
-    <td align="center" width="7.14%"><img src="reactjs.png" width="38" height="38" alt="React" /></td>
-    <td align="center" width="7.14%"><img src="nextjs.png" width="40" height="40" alt="Next.js" /></td>
-    <td align="center" width="7.14%"><img src="vue3.png" width="38" height="38" alt="Vue" /></td>
-    <td align="center" width="7.14%"><img src="nuxt.png" width="45" height="45" alt="Nuxt" /></td>
-    <td align="center" width="7.14%"><img src="angular.gif" width="40" height="40" alt="Angular" /></td>
-    <td align="center" width="7.14%"><img src="expo.png" width="40" height="40" alt="Expo" /></td>
-    <td align="center" width="7.14%"><img src="tailwind.png" width="40" height="40" alt="Tailwind CSS" /></td>
-  </tr>
-  <tr>
-    <td align="center" width="7.14%"><img src="shadcn.webp" width="40" height="40" alt="ShadCN/UI" /></td>
-    <td align="center" width="7.14%"><img src="166878038.png" width="40" height="40" alt="Magic UI" /></td>
-    <td align="center" width="7.14%"><img src="bootstrap5.png" width="45" height="45" alt="Bootstrap 5" /></td>
-    <td align="center" width="7.14%"><img src="threejs.png" width="40" height="40" alt="Three.js" /></td>
-    <td align="center" width="7.14%"><img src="motion.png" width="40" height="40" alt="Motion" /></td>
-    <td align="center" width="7.14%"><img src="gsap3.png" width="40" height="40" alt="GSAP" /></td>
-    <td align="center" width="7.14%"><img src="redux.png" width="40" height="40" alt="Redux" /></td>
-    <td align="center" width="7.14%"><img src="icon.png" width="43" height="43" alt="Zustand" /></td>
-    <td align="center" width="7.14%"><img src="ngrx.svg" width="35" height="35" alt="NgRx" /></td>
-    <td align="center" width="7.14%"><img src="nuqs.svg" width="40" height="40" alt="nuqs" /></td>
-    <td align="center" width="7.14%"><img src="zod.png" width="40" height="40" alt="Zod" /></td>
-    <td align="center" width="7.14%"><img src="nodejs.png" width="40" height="40" alt="Node.js" /></td>
-    <td align="center" width="7.14%"><img src="NestJS.svg" width="40" height="40" alt="NestJS" /></td>
-    <td align="center" width="7.14%"><img src="express.webp" width="38" height="39" alt="Express" /></td>
-  </tr>
-  <tr>
-    <td align="center" width="7.14%"><img src="django-rest.png" width="38" height="39" alt="Django REST" /></td>
-    <td align="center" width="7.14%"><img src="flusk.png" width="40" height="40" alt="Flask" /></td>
-    <td align="center" width="7.14%"><img src="dotnetcore.png" width="40" height="40" alt=".NET Core" /></td>
-    <td align="center" width="7.14%"><img src="seket.png" width="35" height="35" alt="Socket.io" /></td>
-    <td align="center" width="7.14%"><img src="Postgresql.webp" width="40" height="40" alt="PostgreSQL" /></td>
-    <td align="center" width="7.14%"><img src="mysql.png" width="43" height="43" alt="MySQL" /></td>
-    <td align="center" width="7.14%"><img src="mongo.png" width="40" height="40" alt="MongoDB" /></td>
-    <td align="center" width="7.14%"><img src="redis.png" width="38" height="38" alt="Redis" /></td>
-    <td align="center" width="7.14%"><img src="neon.png" width="40" height="40" alt="Neon" /></td>
-    <td align="center" width="7.14%"><img src="supabase.png" width="40" height="40" alt="Supabase" /></td>
-    <td align="center" width="7.14%"><img src="g.png" width="40" height="38" alt="Convex" /></td>
-    <td align="center" width="7.14%"><img src="clerk.avif" width="40" height="40" alt="Clerk" /></td>
-    <td align="center" width="7.14%"><img src="sanity.png" width="37" height="37" alt="Sanity" /></td>
-    <td align="center" width="7.14%"><img src="docker.png" width="40" height="40" alt="Docker" /></td>
-  </tr>
-</table>
+<p align="center">
+  <kbd><img src="javascript.png" width="42.3" height="42.3" alt="JavaScript" /></kbd>&nbsp;
+  <kbd><img src="typescript.png" width="42.3" height="42.3" alt="TypeScript" /></kbd>&nbsp;
+  <kbd><img src="py.png" width="42.3" height="42.3" alt="Python" /></kbd>&nbsp;
+  <kbd><img src="go.png" width="42.3" height="42.3" alt="Go" /></kbd>&nbsp;
+  <kbd><img src="rust.png" width="42.3" height="42.3" alt="Rust" /></kbd>&nbsp;
+  <kbd><img src="c.png" width="42.3" height="42.3" alt="C#" /></kbd>&nbsp;
+  <kbd><img src="c++.png" width="42.3" height="42.3" alt="C++" /></kbd>&nbsp;
+  <kbd><img src="reactjs.png" width="42.3" height="42.3" alt="React" /></kbd>&nbsp;
+  <kbd><img src="nextjs.png" width="42.3" height="42.3" alt="Next.js" /></kbd>&nbsp;
+  <kbd><img src="vue3.png" width="42.3" height="42.3" alt="Vue" /></kbd>&nbsp;
+  <kbd><img src="nuxt.png" width="42.3" height="42.3" alt="Nuxt" /></kbd>&nbsp;
+  <kbd><img src="angular.gif" width="42.3" height="42.3" alt="Angular" /></kbd>&nbsp;
+  <kbd><img src="expo.png" width="42.3" height="42.3" alt="Expo" /></kbd>&nbsp;
+  <kbd><img src="tailwind.png" width="42.3" height="42.3" alt="Tailwind CSS" /></kbd>&nbsp;
+</p>
+<p align="center">
+  <kbd><img src="shadcn.webp" width="42.3" height="42.3" alt="ShadCN/UI" /></kbd>&nbsp;
+  <kbd><img src="166878038.png" width="42.3" height="42.3" alt="Magic UI" /></kbd>&nbsp;
+  <kbd><img src="bootstrap5.png" width="42.3" height="42.3" alt="Bootstrap 5" /></kbd>&nbsp;
+  <kbd><img src="threejs.png" width="42.3" height="42.3" alt="Three.js" /></kbd>&nbsp;
+  <kbd><img src="motion.png" width="42.3" height="42.3" alt="Motion" /></kbd>&nbsp;
+  <kbd><img src="gsap3.png" width="42.3" height="42.3" alt="GSAP" /></kbd>&nbsp;
+  <kbd><img src="redux.png" width="42.3" height="42.3" alt="Redux" /></kbd>&nbsp;
+  <kbd><img src="icon.png" width="42.3" height="42.3" alt="Zustand" /></kbd>&nbsp;
+  <kbd><img src="ngrx.svg" width="42.3" height="42.3" alt="NgRx" /></kbd>&nbsp;
+  <kbd><img src="nuqs.svg" width="42.3" height="42.3" alt="nuqs" /></kbd>&nbsp;
+  <kbd><img src="zod.png" width="42.3" height="42.3" alt="Zod" /></kbd>&nbsp;
+  <kbd><img src="nodejs.png" width="42.3" height="42.3" alt="Node.js" /></kbd>&nbsp;
+  <kbd><img src="NestJS.svg" width="42.3" height="42.3" alt="NestJS" /></kbd>&nbsp;
+  <kbd><img src="express.webp" width="42.3" height="42.3" alt="Express" /></kbd>&nbsp;
+</p>
+<p align="center">
+  <kbd><img src="django-rest.png" width="42.3" height="42.3" alt="Django REST" /></kbd>&nbsp;
+  <kbd><img src="flusk.png" width="42.3" height="42.3" alt="Flask" /></kbd>&nbsp;
+  <kbd><img src="dotnetcore.png" width="42.3" height="42.3" alt=".NET Core" /></kbd>&nbsp;
+  <kbd><img src="seket.png" width="42.3" height="42.3" alt="Socket.io" /></kbd>&nbsp;
+  <kbd><img src="Postgresql.webp" width="42.3" height="42.3" alt="PostgreSQL" /></kbd>&nbsp;
+  <kbd><img src="mysql.png" width="42.3" height="42.3" alt="MySQL" /></kbd>&nbsp;
+  <kbd><img src="mongo.png" width="42.3" height="42.3" alt="MongoDB" /></kbd>&nbsp;
+  <kbd><img src="redis.png" width="42.3" height="42.3" alt="Redis" /></kbd>&nbsp;
+  <kbd><img src="neon.png" width="42.3" height="42.3" alt="Neon" /></kbd>&nbsp;
+  <kbd><img src="supabase.png" width="42.3" height="42.3" alt="Supabase" /></kbd>&nbsp;
+  <kbd><img src="g.png" width="42.3" height="42.3" alt="Convex" /></kbd>&nbsp;
+  <kbd><img src="clerk.avif" width="42.3" height="42.3" alt="Clerk" /></kbd>&nbsp;
+  <kbd><img src="sanity.png" width="42.3" height="42.3" alt="Sanity" /></kbd>&nbsp;
+  <kbd><img src="docker.png" width="42.3" height="42.3" alt="Docker" /></kbd>&nbsp;
+</p>
 
 <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph"/>
